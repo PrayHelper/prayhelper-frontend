@@ -14,7 +14,7 @@ const SelectionModal = ({
   onClickCancelButton,
   onClickActionButton,
   selectedLength,
-  mode, // "SHARE" | "BRING" | "KAKAO_SHARE"
+  mode, // "SHARE" | "BRING" | "KAKAO_SHARE" ex
 }) => {
   return (
     <>
